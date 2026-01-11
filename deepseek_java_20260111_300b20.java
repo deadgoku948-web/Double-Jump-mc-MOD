@@ -1,0 +1,14 @@
+package com.example.doublejump;
+
+import net.minecraftforge.fml.common.event.FMLInitializationEvent;
+import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
+
+public class CommonProxy {
+    public void preInit(FMLPreInitializationEvent event) {
+        // Common pre-init code
+    }
+    
+    public void init(FMLInitializationEvent event) {
+        // Common init code
+    }
+}
