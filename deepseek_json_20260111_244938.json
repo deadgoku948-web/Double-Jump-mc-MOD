@@ -1,0 +1,14 @@
+{
+  "modid": "doublejumpmod",
+  "name": "Double Jump Mod",
+  "description": "Adds double jumps and a stamina system",
+  "version": "1.0",
+  "mcversion": "1.8.8",
+  "author": "YourName",
+  "url": "",
+  "updateUrl": "",
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
