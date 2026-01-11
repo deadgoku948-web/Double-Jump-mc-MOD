@@ -1,6 +1,0 @@
-# Create distribution ZIP
-mkdir DoubleJumpMod-1.8.8
-cp build/libs/DoubleJumpMod-1.0.jar DoubleJumpMod-1.8.8/
-cp README.md DoubleJumpMod-1.8.8/
-cp LICENSE.txt DoubleJumpMod-1.8.8/
-zip -r DoubleJumpMod-1.8.8-1.0.zip DoubleJumpMod-1.8.8/
